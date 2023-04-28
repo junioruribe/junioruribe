@@ -21,8 +21,8 @@ MYSQL
 OFFICE 365
   
   Sitios Web
-  https://cvjrprogramacion.netlify.app/
-  https://portafoliowb.netlify.app/
+  CV: https://cvjrprogramacion.netlify.app/
+  Portafolio: https://portafoliowb.netlify.app/
   Contacto
 Cel: +57 3107312014
 Email: juniorjauc@gmail.com
