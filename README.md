@@ -12,11 +12,11 @@ Abril 2014 - dic 2015 | Medellín
 SENA
 
   Habilidades Técnicas
-HTML5
-CCS3
 JAVA
 SQL
 JAVASCRIPT
+HTML5
+CCS3
 MYSQL
 OFFICE 365
   
