@@ -1,5 +1,5 @@
 - 👋 <Hola Mundo>
-Actualmente Soy Practicante de Programación De Software en ultimo trismestre en la Universidad C4TA, Me gustan los retos y estar en constante evolución y aprendizaje con las ultimas tecnologias. soy comprometido con los objetivos para cumplir con las metas y los proyectos a trabajar.
+Developer Software JR Egresado de la Universidad C4TA, Me gustan los retos y estar en constante evolución y aprendizaje con las ultimas tecnologias. soy comprometido con los objetivos para cumplir con las metas y los proyectos a trabajar.
 
   Educación
 Técnico | Programación de Software
@@ -19,6 +19,7 @@ HTML5
 CCS3
 MYSQL
 OFFICE 365
+GIT & GITHUB
   
   Sitios Web
   CV: https://cvjrprogramacion.netlify.app/
