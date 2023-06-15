@@ -11,6 +11,10 @@ Tecnólogo | Sonido Directo para Medios Audiovisuales
 Abril 2014 - dic 2015 | Medellín
 SENA
 
+Curso manejo de pruebas de software 
+abril 2023 - mayo 2023
+SENA
+
   Habilidades Técnicas
 JAVA
 SQL
@@ -20,10 +24,12 @@ CCS3
 MYSQL
 OFFICE 365
 GIT & GITHUB
+SCRUM
   
   Sitios Web
   CV: https://cvjrprogramacion.netlify.app/
   Portafolio: https://portafoliowb.netlify.app/
+  
   Contacto
 Cel: +57 3107312014
 Email: juniorjauc@gmail.com
