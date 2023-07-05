@@ -35,7 +35,7 @@ SCRUM
   Contacto
 Cel: +57 3107312014
 Email: juniorjauc@gmail.com
-Facebook: https://www.facebook.com/junioruribec
+Facebook:[https://www.facebook.com/junioruribec](https://www.facebook.com/junioruribec)
 
 Licencias y Certificados
 
