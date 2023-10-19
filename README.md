@@ -32,7 +32,7 @@ Cel: +57 3107312014
 Email: juniorjauc@gmail.com
 Facebook:[https://www.facebook.com/junioruribec](https://www.facebook.com/junioruribec)
 
-Licencias y Certificados
+## :trophy: Licencias y Certificados
 
 JAVA | CSS | JAVASCRIPT | HTML | GIT & GITHUB | SCRUM | SHAREPOINT
 Curso de Programación Básica Platzi
