@@ -13,7 +13,7 @@ abril 2023 - mayo 2023
 SENA
 
 ## :computer:  Habilidades Técnicas
-## JAVA | CSS | JAVASCRIPT | HTML | GIT & GITHUB | SCRUM | SHAREPOINT| CANVA | WORDPRESS | MIRO |
+
 - JAVA - SQL
 - JAVASCRIPT - HTML5
 - CCS3 - MYSQL
