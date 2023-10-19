@@ -1,9 +1,9 @@
 - 👋 <Hola Mundo>
 <h1>Técnico en programación de Software.</h1>
 
-Software Developer JR Egresado de la Universidad C4TA (Medellín). Tengo conocimiento en JAVA - HTML - CSS - JAVASCRIPT - MYSQL - GIT & GITHUB - SHAREPOINT , Curso en Manejo de pruebas de Software y metodologia SCRUM. Me gustan los retos estar en constante evolución y aprendizaje con las últimas tecnologías. Soy comprometido con los objetivos para cumplir con las metas y los proyectos a trabajar.
+ Software Developer JR Egresado de la Universidad C4TA (Medellín). Tengo conocimiento en JAVA - HTML - CSS - JAVASCRIPT - MYSQL - GIT & GITHUB - SHAREPOINT , Curso en Manejo de pruebas de Software y metodologia SCRUM. Me gustan los retos estar en constante evolución y aprendizaje con las últimas tecnologías. Soy comprometido con los objetivos para cumplir con las metas y los proyectos a trabajar.
 
-  Educación
+## :man_student:  Educación
 Desarrollador de Software | Programación de Software
 marzo 21/2022 - jun 16/2023 | Medellín
 C4TA(Ciudadela de la Cuarta Revolución y la Transformación del Aprendizaje)
@@ -12,7 +12,7 @@ Curso manejo de pruebas de software
 abril 2023 - mayo 2023
 SENA
 
-  Habilidades Técnicas
+## :computer:  Habilidades Técnicas
 - JAVA - SQL
 - JAVASCRIPT - HTML5
 - CCS3 - MYSQL
@@ -27,7 +27,7 @@ SENA
   Barberia Alura : https://barberialurahtml.netlify.app/
   Pagina web personal : https://jrsoftware.webador.com/
   
-  Contacto
+## :pushpin:  Contacto
 Cel: +57 3107312014
 Email: juniorjauc@gmail.com
 Facebook:[https://www.facebook.com/junioruribec](https://www.facebook.com/junioruribec)
