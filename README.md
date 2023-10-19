@@ -28,24 +28,28 @@ SENA
   Pagina web personal : https://jrsoftware.webador.com/
   
 ## :pushpin:  Contacto
-Cel: +57 3107312014
-Email: juniorjauc@gmail.com
-Facebook:[https://www.facebook.com/junioruribec](https://www.facebook.com/junioruribec)
+- Cel: +57 3107312014
+- Email: <a href="juniorjauc@gmail.com" target="_blank">juniorjauc@gmail.com</a>
+- <a href="https://www.linkedin.com/in/programadorjr/">Linkedin</a>
+- <a href="portafoliowb.netlify.app">Portafolio</a>
+- <a href="https://www.facebook.com/junioruribec">Facebook</a>
+
 
 ## :trophy: Licencias y Certificados
 
-JAVA | CSS | JAVASCRIPT | HTML | GIT & GITHUB | SCRUM | SHAREPOINT
-Curso de Programación Básica Platzi
+## JAVA | CSS | JAVASCRIPT | HTML | GIT & GITHUB | SCRUM | SHAREPOINT
 
-Curso de Introducción al Desarrollo Back End Platzi
+- Curso de Programación Básica Platzi
 
-Curso de Metodología SCRUM Foundation Professional Certificate CertiProf
+- Curso de Introducción al Desarrollo Back End Platzi
 
-Curso de Manejo de Pruebas de Software SENA
+- Curso de Metodología SCRUM Foundation Professional Certificate CertiProf
 
-Curso JAVA Polimorfismo: Herencia e Interfaces Alura Latam
+- Curso de Manejo de Pruebas de Software SENA
 
-Curso de GIT Y GITHUB: Controle y Comparta su Código ORACLE - Alura Latam
+-  JAVA Polimorfismo: Herencia e Interfaces Alura Latam
+
+- Curso de GIT Y GITHUB: Controle y Comparta su Código ORACLE - Alura Latam
 
 <!---
 junioruribe/junioruribe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
