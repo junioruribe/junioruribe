@@ -1,15 +1,12 @@
 - 👋 <Hola Mundo>
-Técnico en programación de Software
+Técnico en programación de Software.
+
 Software Developer JR Egresado de la Universidad C4TA (Medellín). Tengo conocimiento en JAVA - HTML - CSS - JAVASCRIPT - MYSQL - GIT & GITHUB - SHAREPOINT , Curso en Manejo de pruebas de Software y metodologia SCRUM. Me gustan los retos estar en constante evolución y aprendizaje con las últimas tecnologías. Soy comprometido con los objetivos para cumplir con las metas y los proyectos a trabajar.
 
   Educación
 Desarrollador de Software | Programación de Software
 marzo 21/2022 - jun 16/2023 | Medellín
 C4TA(Ciudadela de la Cuarta Revolución y la Transformación del Aprendizaje)
-
-Tecnólogo | Sonido Directo para Medios Audiovisuales
-Abril 2014 - dic 2015 | Medellín
-SENA
 
 Curso manejo de pruebas de software 
 abril 2023 - mayo 2023
@@ -24,7 +21,10 @@ CCS3
 MYSQL
 OFFICE 365
 GIT & GITHUB
-SCRUM
+FIGMA - MIRO
+CANVA
+SHAREPOINT
+WORDPRESS
 
  Proyectos 
   CV: https://cvjrprogramacion.netlify.app/
