@@ -21,7 +21,7 @@ SENA
 - FIGMA - MIRO - CANVA
 
 
-##  Proyectos 
+## :pencil:  Proyectos 
  -  CV: https://cvjrprogramacion.netlify.app/
  - Portafolio: https://portafoliowb.netlify.app/
  - Encriptador de texto: https://junioruribe.github.io/EncriptadorONE/
