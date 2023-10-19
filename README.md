@@ -38,7 +38,7 @@ SENA
 
 ## :trophy: Licencias y Certificados
 
-## JAVA | CSS | JAVASCRIPT | HTML | GIT & GITHUB | SCRUM | SHAREPOINT
+## JAVA | CSS | JAVASCRIPT | HTML | GIT & GITHUB | SCRUM | SHAREPOINT| CANVA | WORDPRESS | MIRO |
 
 - Curso de Programación Básica Platzi
 
