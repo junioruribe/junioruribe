@@ -16,16 +16,17 @@ SENA
 - JAVA - SQL
 - JAVASCRIPT - HTML5
 - CCS3 - MYSQL
-- OFFICE 365 - GIT & GITHUB
+- GIT & GITHUB - WORDPRESS
+- OFFICE 365 - SHAREPOINT
 - FIGMA - MIRO - CANVA
-- SHAREPOINT - WORDPRESS
 
- Proyectos 
-  CV: https://cvjrprogramacion.netlify.app/
-  Portafolio: https://portafoliowb.netlify.app/
-  Encriptador de texto: https://junioruribe.github.io/EncriptadorONE/
-  Barberia Alura : https://barberialurahtml.netlify.app/
-  Pagina web personal : https://jrsoftware.webador.com/
+
+##  Proyectos 
+ -  CV: https://cvjrprogramacion.netlify.app/
+ - Portafolio: https://portafoliowb.netlify.app/
+ - Encriptador de texto: https://junioruribe.github.io/EncriptadorONE/
+ - Barberia Alura : https://barberialurahtml.netlify.app/
+ - Pagina web personal : https://jrsoftware.webador.com/
   
 ## :pushpin:  Contacto
 - Cel: +57 3107312014
