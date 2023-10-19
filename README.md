@@ -13,18 +13,18 @@ abril 2023 - mayo 2023
 SENA
 
   Habilidades Técnicas
-JAVA
-SQL
-JAVASCRIPT
-HTML5
-CCS3
-MYSQL
-OFFICE 365
-GIT & GITHUB
-FIGMA - MIRO
-CANVA
-SHAREPOINT
-WORDPRESS
+- JAVA
+- SQL
+- JAVASCRIPT
+- HTML5
+- CCS3
+- MYSQL
+- OFFICE 365
+- GIT & GITHUB
+- FIGMA - MIRO
+- CANVA
+- SHAREPOINT
+- WORDPRESS
 
  Proyectos 
   CV: https://cvjrprogramacion.netlify.app/
